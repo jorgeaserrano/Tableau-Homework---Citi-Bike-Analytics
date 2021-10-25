@@ -9,7 +9,7 @@ In order to see all visualizations, please visit: https://public.tableau.com/app
 
 ## Analysis
 
-1. Number of Records
+### 1. Number of Records
 
 The monthly data included over 500 million records. During the very first month of the program, riders seem to gravitate to two days in particular: The 2nd, 3rd, 4th, 5th and the 21st. I imagine it was because the program was new and rides were still trying to figure out how the system work. From the first day to the second, there were over 10K riders that took to giving the Citibike program a try. The lowest number of records, it was on the 25th with 3,260 bike riders. Incidently, the 25th was a Thursday. 
 
@@ -17,7 +17,7 @@ The monthly data included over 500 million records. During the very first month 
 
 Please see attached images for more visualizations. 
 
-2. Top/Bottom Ten Stations
+### 2. Top/Bottom Ten Stations
 
 Top ten stations to start and end a Citibike Ride are: 7 Ave & Farragut St & 8 Ave & W 31 St.
 
@@ -25,7 +25,7 @@ Top ten stations to start and end a Citibike Ride are: 7 Ave & Farragut St & 8 A
 
 Please see attached images for more visualizations. 
 
-3. Peak Hours
+### 3. Peak Hours
 
 ![Screen Shot 2021-10-24 at 2 08 27 PM](https://user-images.githubusercontent.com/85501418/138723195-8243f160-4727-4e84-acfb-7a30f8bdaa9b.png)
 
@@ -33,7 +33,7 @@ Peak hours included 7:00 and 17:00-18:00) as rides were either getting to work a
 
 Please see attached images for more visualizations. 
 
-4. Trip Distance and Duration by Age
+### 4. Trip Distance and Duration by Age
 
 ![Screen Shot 2021-10-24 at 2 10 03 PM](https://user-images.githubusercontent.com/85501418/138723827-1f523916-9297-4f63-a662-a03da79d38c9.png)
 
@@ -41,7 +41,7 @@ During the first month of operation, the data indicates that bike riders between
 
 Please see attached images for more visualizations. 
 
-5. Number of Bikes and Distance
+### 5. Number of Bikes and Distance
 
 ![Screen Shot 2021-10-24 at 3 21 44 PM](https://user-images.githubusercontent.com/85501418/138724377-1b07f38d-46a3-4a37-9ce8-8a7589441604.png)
 
