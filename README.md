@@ -1,7 +1,7 @@
 # Tableau Homework - Citi Bike Analytics
 
 ## Data Source
-Monthly CSV files (July 2013) were collected from https://ride.citibikenyc.com/system-data webpage.
+Monthly CSV files (July 2013) were collected from downloadable files of Citi Bike trip data. ebpage.
 
 In order to see all visualizations, please visit: https://public.tableau.com/app/profile/jorge.serrano8339/viz/latesthomework/Story5
 
