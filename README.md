@@ -1,28 +1,20 @@
 # Tableau Homework - Citi Bike Analytics
 
-### Before You Begin
+## Data Source
+Monthly CSV files (July 2013) were collected from https://ride.citibikenyc.com/system-data webpage.
 
-* This assignment will be saved to your Tableau Public account rather than GitHub. 
+In order to see all visualizations, please visit: https://public.tableau.com/app/profile/jorge.serrano8339/viz/latesthomework/Story5
 
-* If you haven't already, be sure to create a Tableau Public account [here](https://public.tableau.com/s/).
+I had a lot of issues with Tableau Public when trying to visualize two or more cvs files. With this reality, I had no choice but to alalyzed the very first month of the Citibike Program. 
 
-* The free tier of Tableau only lets you save to their public server. This means that each time you save your file it will be uploaded to your Tableau Public profile. 
+## Analysis
 
-* You are able to load and continue working on the same workbook.
+The total number of records included 
+![Screen Shot 2021-10-24 at 2 08 19 PM](https://user-images.githubusercontent.com/85501418/138719445-6839da40-62a6-4dc0-ae9d-13ff73662308.png)
 
-* When you are finished with your assignment, you will turn in the URL to your Tableau Public workbook along with any additional files used for your analysis. 
 
-## Background
-
-![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
-
-Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
-
-Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
-
-However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so your first task on the job is to build a set of data reports to provide the answers.
-
-## Task
+1. Number of Records
+Total number of records were 12 billion. People seem to ride more bikes in the summer than in the winter. The possible reason could be that people are not willing to ride outside in winter due to the cold weather. September 2019 had the lowest number of records, while April 2020 had the lowest number of records.
 
 **Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.** 
 
